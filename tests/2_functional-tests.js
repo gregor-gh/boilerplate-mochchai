@@ -5,7 +5,7 @@ const server = require("../server");
 
 const chaiHttp = require("chai-http");
 chai.use(chaiHttp);
-
+/*
 suite("Functional Tests", function () {
   suite("Integration tests with chai-http", function () {
     // #1
@@ -72,3 +72,4 @@ suite("Functional Tests with Zombie.js", function () {
     });
   });
 });
+*/
